@@ -12,5 +12,4 @@ By reading this book, you will learn how to recognize and overcome common decisi
 
 We hope that this book will be a valuable resource for anyone looking to improve their decision-making skills and achieve better outcomes in all areas of life.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
