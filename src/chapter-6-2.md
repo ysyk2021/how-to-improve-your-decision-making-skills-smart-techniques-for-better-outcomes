@@ -1,5 +1,3 @@
-Strategies for Rational Decision Making, Intuition, and Creativity
-==================================================================================================
 
 Making decisions can be challenging, especially when the stakes are high. In this chapter, we will discuss strategies for making decisions that are rational, intuitive, and creative.
 

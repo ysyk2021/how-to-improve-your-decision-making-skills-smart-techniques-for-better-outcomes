@@ -1,6 +1,3 @@
-# Overcoming Decision-Making Biases
-
-## Introduction
 
 In our daily lives, we are faced with numerous decisions that can have a significant impact on our personal and professional outcomes. However, the process of decision-making is not always objective or rational. Our judgments can be influenced by various biases that cloud our thinking and hinder us from making optimal choices. In this chapter, we will explore some common decision-making biases and learn effective techniques to overcome them.
 

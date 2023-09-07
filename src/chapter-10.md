@@ -1,5 +1,3 @@
-Chapter 10: Applying Decision-Making Skills in the Workplace
-============================================================
 
 Applying decision-making skills in the workplace is crucial to achieving better outcomes and improving overall performance. It involves utilizing the strategies discussed throughout this book and adapting them to the specific context of the workplace. In this chapter, we will discuss some strategies for applying decision-making skills in the workplace.
 

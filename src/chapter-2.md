@@ -1,5 +1,3 @@
-Chapter 2: Identifying Types of Decisions
-=========================================
 
 Identifying the types of decisions is an essential step in the decision-making process. In this chapter, we will explore strategies for recognizing decision types, importance, and consequences, as well as the benefits of identifying types of decisions for better outcomes.
 

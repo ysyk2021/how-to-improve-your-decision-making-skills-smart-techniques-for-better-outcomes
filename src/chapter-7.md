@@ -1,5 +1,3 @@
-Chapter 7: Implementing and Communicating the Decision
-======================================================
 
 Implementing and communicating the decision is crucial to ensure that the chosen course of action is executed effectively and efficiently. It also helps to align stakeholders towards the same goal and to provide feedback for potential improvements. In this chapter, we will discuss some strategies for implementing and communicating the decision.
 

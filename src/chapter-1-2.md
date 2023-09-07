@@ -1,4 +1,3 @@
-# Defining Key Concepts: Rationality, Risk, and Uncertainty
 
 In this chapter, we will explore and define three fundamental concepts that play a crucial role in decision making: rationality, risk, and uncertainty. Understanding these concepts is essential for improving your decision making skills and achieving better outcomes.
 

@@ -1,5 +1,3 @@
-Chapter 9: Overcoming Decision-Making Biases
-============================================
 
 Decision-making biases are inherent in the decision-making process and can lead to suboptimal outcomes. Overcoming these biases is crucial to ensure that decisions are made based on objective facts and not influenced by personal biases. In this chapter, we will discuss some strategies for overcoming decision-making biases.
 

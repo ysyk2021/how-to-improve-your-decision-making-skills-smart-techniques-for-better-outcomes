@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Effective decision-making skills are essential for success in both personal and professional life. In this chapter, we will explore the importance of effective decision making, defining key concepts such as rationality, risk, and uncertainty, and the benefits of developing strong decision-making skills for personal and professional success.
 

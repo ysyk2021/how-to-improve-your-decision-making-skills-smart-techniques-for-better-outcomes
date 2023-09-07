@@ -1,5 +1,3 @@
-Chapter 6: Making the Decision
-==============================
 
 Making the decision is the final step in the decision-making process. It involves selecting the best course of action based on the information gathered, risks and consequences evaluated, and options evaluated and prioritized. In this chapter, we will discuss some strategies for making the decision.
 

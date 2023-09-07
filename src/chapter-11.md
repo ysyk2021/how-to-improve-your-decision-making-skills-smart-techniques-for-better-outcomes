@@ -1,5 +1,3 @@
-Chapter 11: Conclusion
-======================
 
 In this book, we have discussed numerous strategies for improving decision-making skills to achieve better outcomes in various aspects of life. From identifying the problem to implementing and communicating the decision, we have explored techniques for evaluating options, overcoming biases, and applying decision-making skills in the workplace.
 

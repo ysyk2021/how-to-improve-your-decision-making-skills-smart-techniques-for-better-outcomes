@@ -1,4 +1,4 @@
-# Introduction
+
 
 Decisions are an inevitable part of life. From small, everyday choices to major life-changing decisions, the ability to make effective decisions is crucial for success in both personal and professional pursuits. Yet, decision making can be challenging as it involves sifting through information, weighing options, and considering the potential consequences of different choices.
 
@@ -13,3 +13,7 @@ By reading this book, you will learn how to recognize and overcome common decisi
 We hope that this book will be a valuable resource for anyone looking to improve their decision-making skills and achieve better outcomes in all areas of life.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

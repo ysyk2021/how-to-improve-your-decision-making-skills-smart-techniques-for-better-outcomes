@@ -1,5 +1,3 @@
-Chapter 8: Monitoring and Evaluating the Decision
-=================================================
 
 Monitoring and evaluating a decision is an essential component of improving decision-making skills. In this chapter, we will explore strategies for monitoring and evaluating decisions, as well as their benefits for better outcomes.
 

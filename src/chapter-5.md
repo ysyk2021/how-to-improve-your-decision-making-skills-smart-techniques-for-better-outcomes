@@ -1,5 +1,3 @@
-Chapter 5: Considering Risks and Consequences
-=============================================
 
 Considering risks and consequences is a critical step in making informed decisions. It involves weighing the potential risks and benefits of each option and evaluating the potential outcomes. In this chapter, we will discuss some strategies for considering risks and consequences.
 
