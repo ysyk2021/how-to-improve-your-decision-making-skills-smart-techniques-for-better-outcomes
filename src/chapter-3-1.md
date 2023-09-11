@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Gathering Information and Data Analysis" for the book "How to Improve Your Decision-Making Skills: Smart Techniques for Better Outcomes":
 
-Chapter 7: Gathering Information and Data Analysis
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective decision-making relies on a solid foundation of information and data analysis. In this chapter, we explore strategies for gathering the right information and utilizing data to make informed decisions.
 

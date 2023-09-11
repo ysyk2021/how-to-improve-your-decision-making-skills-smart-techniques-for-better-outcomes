@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Implementing and Communicating the Decision" for the book "How to Improve Your Decision-Making Skills: Smart Techniques for Better Outcomes":
 
-Chapter 4: Implementing and Communicating the Decision
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Making a decision is just the beginning. To truly improve your decision-making skills, you must master the art of implementation and effective communication. In this chapter, we explore the crucial steps in turning your decisions into actions and conveying them to others.
 

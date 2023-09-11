@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Strategies for Execution, Communication, and Feedback" for the book "How to Improve Your Decision-Making Skills: Smart Techniques for Better Outcomes":
 
-Chapter 6: Strategies for Execution, Communication, and Feedback
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Making a decision is only the beginning; executing that decision effectively, communicating it to others, and receiving feedback are critical steps for achieving successful outcomes. In this chapter, we explore strategies to master these crucial aspects of decision-making.
 

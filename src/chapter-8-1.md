@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Monitoring and Evaluating the Decision" for the book "How to Improve Your Decision-Making Skills: Smart Techniques for Better Outcomes":
 
-Chapter 12: Monitoring and Evaluating the Decision
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective decision-making doesn't end when you make a choice; it involves the critical steps of monitoring and evaluating the decision's implementation and impact. In this chapter, we explore the essential practices of monitoring and evaluation and their role in achieving better outcomes.
 

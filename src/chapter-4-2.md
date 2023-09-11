@@ -1,5 +1,4 @@
-Chapter 9: Strategies for Weighing Options, Consideration of Alternatives, and Analyzing Potential Outcomes
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of better decision-making skills, it's essential to master the art of weighing options, considering alternatives, and analyzing potential outcomes. This chapter delves into strategies and techniques that enable you to make well-informed decisions by thoroughly evaluating available choices and their potential consequences.
 

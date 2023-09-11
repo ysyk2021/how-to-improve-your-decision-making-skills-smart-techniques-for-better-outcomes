@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Strategies for Risk Assessment, Mitigation, and Contingency Planning" for the book "How to Improve Your Decision-Making Skills: Smart Techniques for Better Outcomes":
 
-Chapter 5: Strategies for Risk Assessment, Mitigation, and Contingency Planning
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective decision-making is not just about making choices; it's also about managing risks associated with those choices. In this chapter, we delve into essential strategies for assessing, mitigating, and planning for contingencies to make more informed and resilient decisions.
 

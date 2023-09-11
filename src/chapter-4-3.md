@@ -1,5 +1,4 @@
-Chapter 7: The Benefits of Evaluating and Prioritizing Options for Better Outcomes
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to improve your decision-making skills, the ability to evaluate and prioritize options is a crucial skillset. This chapter explores the numerous advantages that come with mastering this skill and how it leads to better outcomes in various aspects of your life.
 

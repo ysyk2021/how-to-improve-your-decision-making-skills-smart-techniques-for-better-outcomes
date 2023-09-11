@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Applying Decision-Making Skills in the Workplace" for the book "How to Improve Your Decision-Making Skills: Smart Techniques for Better Outcomes":
 
-Chapter 10: Applying Decision-Making Skills in the Workplace
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Decision-making is the lifeblood of any organization. In this chapter, we explore how to apply your enhanced decision-making skills effectively in the workplace to achieve better outcomes.
 

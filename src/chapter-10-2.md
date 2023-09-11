@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Strategies for Teamwork, Leadership, and Professional Development" for the book "How to Improve Your Decision-Making Skills: Smart Techniques for Better Outcomes":
 
-Chapter 9: Strategies for Teamwork, Leadership, and Professional Development
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective decision-making extends beyond individual skills; it encompasses teamwork, leadership, and continuous professional growth. In this chapter, we explore strategies to excel in these interconnected domains for better decision outcomes.
 

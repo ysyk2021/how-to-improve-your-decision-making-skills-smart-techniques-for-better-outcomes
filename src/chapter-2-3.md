@@ -1,5 +1,4 @@
-Chapter 3: The Benefits of Identifying Types of Decisions for Better Outcomes
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding the various types of decisions you encounter in life is not merely an exercise in categorization but a strategic approach to improving your decision-making skills. This chapter explores the substantial benefits that come with identifying the types of decisions you face, highlighting how this awareness can lead to more effective and successful outcomes.
 

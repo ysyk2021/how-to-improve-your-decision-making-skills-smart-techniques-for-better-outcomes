@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "The Benefits of Considering Risks and Consequences for Better Outcomes" for the book "How to Improve Your Decision-Making Skills: Smart Techniques for Better Outcomes":
 
-Chapter 3: The Benefits of Considering Risks and Consequences for Better Outcomes
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey towards improving your decision-making skills, one key aspect that deserves our attention is the thoughtful consideration of risks and consequences. This chapter delves into the profound advantages that come with this practice.
 

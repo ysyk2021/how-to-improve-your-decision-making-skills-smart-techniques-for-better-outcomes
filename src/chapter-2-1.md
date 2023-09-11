@@ -1,5 +1,4 @@
-Chapter 2: Identifying Types of Decisions
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Before diving into the strategies and techniques for improving your decision-making skills, it's crucial to understand the various types of decisions you encounter in different aspects of your life. This chapter explores the categorization of decisions, shedding light on the diverse nature of choices you make and the specific challenges they present.
 

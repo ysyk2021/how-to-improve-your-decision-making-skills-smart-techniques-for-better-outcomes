@@ -1,5 +1,4 @@
-Chapter 2: Strategies for Recognizing Decision Types, Importance, and Consequences
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental aspects of effective decision-making: understanding the types of decisions you encounter, assessing their importance, and comprehending the potential consequences of your choices. Developing these insights is crucial to improving your decision-making skills and achieving better outcomes in various aspects of your life.
 
